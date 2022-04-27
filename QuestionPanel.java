@@ -33,7 +33,7 @@ public class QuestionPanel extends JFrame {
         correct.setVisible(false);
 
         question.setFont(new Font("Ariel", Font.PLAIN, 10));
-        question.setBounds(140, 50, 300, 74);
+        question.setBounds(60, 50, 400, 74);
         add(question);
 
 
